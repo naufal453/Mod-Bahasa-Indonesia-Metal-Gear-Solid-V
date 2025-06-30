@@ -37,5 +37,5 @@ Pastikan kamu sudah:
 4. Pilih mod tersebut di daftar → klik **Continue Installation** → tunggu hingga selesai :contentReference[oaicite:3]{index=3}.
 
 5. Setelah selesai, mod langsung aktif:
-   - Kamu bisa jalankan game via SnakeBite (**Start Game**) atau langsung melalui Steam — mod tetap berjalan :contentReference[oaicite:4]{index=4}.
+   - Kamu bisa jalankan game via SnakeBite (**Start Game**)
 
