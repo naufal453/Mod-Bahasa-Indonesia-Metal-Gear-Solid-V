@@ -27,14 +27,13 @@ Pastikan kamu sudah:
 
 1. Jalankan **SnakeBite.exe**; jika ini pertama kali, lakukan setup wizard:
    - Pilih folder instalasi MGSV (mgsvtpp.exe).
-   - Backup file game, kemudian modifikasi agar siap dimod -->
-   :contentReference[oaicite:2]{index=2}.
+   - Backup file game, kemudian modifikasi agar siap dimod 
 
 2. Buka tab **Mods** di aplikasi:
 
 3. Klik **Install .MGSV File(s)** → pilih `Bahasa.mgsv` → klik **Open**.
 
-4. Pilih mod tersebut di daftar → klik **Continue Installation** → tunggu hingga selesai :contentReference[oaicite:3]{index=3}.
+4. Pilih mod tersebut di daftar → klik **Continue Installation** → tunggu hingga selesai
 
 5. Setelah selesai, mod langsung aktif:
    - Kamu bisa jalankan game via SnakeBite (**Start Game**)
