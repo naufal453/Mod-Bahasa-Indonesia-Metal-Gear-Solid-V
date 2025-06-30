@@ -37,4 +37,8 @@ Pastikan kamu sudah:
 
 5. Setelah selesai, mod langsung aktif:
    - Kamu bisa jalankan game via SnakeBite (**Start Game**)
+---
 
+## 💲 Dukungan
+
+https://saweria.co/naufal41amsyah
